@@ -1,0 +1,1 @@
+Pide número mediante prompt y suma de a uno en cada repetición,realizando una salida por cada resultado (hecho hasta el numero 100).
